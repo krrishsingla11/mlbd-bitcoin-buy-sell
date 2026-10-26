@@ -1,0 +1,5 @@
+__pycache__/
+models/
+old_yfinance/
+BitstampData_sample.csv
+*.pyc
